@@ -1,0 +1,16 @@
+Vue Notes
+
+RouterLink is == an a-ref tag 
+
+nested routes, notFound
+
+npm i pinia
+Main.js{
+import createPinia
+
+const pinia = createPinia()
+}
+
+Go to dummyjson and use todos 
+
+// To test getters change store.todos on line 13 to store.completed
